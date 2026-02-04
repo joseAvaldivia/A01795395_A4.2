@@ -1,0 +1,15 @@
+=== FRECUENCIA DE PALABRAS ===
+
+el: 1
+es: 2
+genial: 1
+hola: 3
+lenguaje: 1
+mejor: 1
+mundo: 2
+python: 3
+
+
+Total de palabras distintas: 8
+Total de palabras en el archivo: 14
+Tiempo de ejecución: 0.000000 segundos
